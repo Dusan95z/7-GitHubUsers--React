@@ -2,4 +2,4 @@
 
 React JS project.
 
-link
+https://7-searchgithubusers.netlify.app/
